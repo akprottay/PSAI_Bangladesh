@@ -1,0 +1,7 @@
+Domain,Raw indicator(s),Normalization,Notes
+Electricity,Electricity (% households with access),"Min–max, one-stage",Census-based household attribute
+Gas,Gas (% households with piped/cylinder gas),"Min–max, one-stage",Census-based household attribute
+Water,Water (% households with piped water),"Min–max, one-stage",Census-based household attribute
+Transport,"Road density, rail station density, rail length density","Min–max per sub-indicator, combined, then re-normalized (two-stage)",OSM network + station point data
+Education,"Schools per 1,000, colleges/universities per 1,000","Min–max per sub-indicator, combined, then re-normalized (two-stage)",OSM facility points
+Health,"Hospitals per 1,000 population","Min–max, one-stage",OSM facility points
