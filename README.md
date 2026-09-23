@@ -72,10 +72,6 @@ match the manuscript.
 **Fig. 8.** Local Moran's I (LISA) clusters, Benjamini-Hochberg adjusted.
 ![LISA cluster map](figures_export/fig_07_lisa_map.png)
 
-**Getis-Ord Gi\* hot spot / cold spot classification** (supplementary; not currently discussed in
-the manuscript text).
-![Getis-Ord Gi* hotspot map](figures_export/fig_08_gi_hotspot_map.png)
-
 > Note: figure numbers above follow the manuscript's numbering, not the filename order — the
 > filenames reflect the notebook's internal generation sequence.
 
